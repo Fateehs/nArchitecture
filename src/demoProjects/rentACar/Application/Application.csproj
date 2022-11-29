@@ -21,11 +21,9 @@
 	<ItemGroup>
 	  <Folder Include="Features\Brands\Commands\CreateBrand\" />
 	  <Folder Include="Features\Brands\Constrants\" />
-	  <Folder Include="Features\Brands\Dtos\" />
 	  <Folder Include="Features\Brands\Models\" />
 	  <Folder Include="Features\Brands\Rules\" />
 	  <Folder Include="Features\Brands\Queries\" />
-	  <Folder Include="Features\Brands\Profiles\" />
 	</ItemGroup>
 
 </Project>

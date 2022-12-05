@@ -19,7 +19,10 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="Features\Brands\Constrants\" />
+	  <Folder Include="Features\Brands\Constants\" />
+	  <Folder Include="Features\Models\Constants\" />
+	  <Folder Include="Features\Models\Rules\" />
+	  <Folder Include="Features\Models\Commands\" />
 	</ItemGroup>
 
 </Project>
